@@ -2,7 +2,7 @@
 /**
  * DefaultApiTest
  * PHP version 5
- *222
+ *22255555
  * @category Class
  * @package  wxlink
  * @author   http://github.com/swagger-api/swagger-codegen
