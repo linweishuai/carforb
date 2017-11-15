@@ -3,7 +3,7 @@
  * DefaultApiTest
  * PHP version 5
  *22255555
- * @category Class6666
+ * @category Class66667777
  * @package  wxlink
  * @author   http://github.com/swagger-api/swagger-codegen
  * @license  http://www.apache.org/licenses/LICENSE-2.0 Apache Licene v2
